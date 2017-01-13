@@ -10,6 +10,7 @@ import org.springframework.web.bind.annotation.RestController;
  *
  * @author Theodore Elikem Attigah
  */
+
 @SpringBootApplication
 @RestController
 public class Application {
